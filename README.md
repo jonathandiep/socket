@@ -1,9 +1,10 @@
 #Socket.IO
 
-This is a project that I have been working on recently. It's rough, but I plan to add a few more features over time and make it less ugly.
+[PROJECT'S WEBSITE ON HEROKU](https://socket-jon.herokuapp.com/)
+
+This is a personal project that I have been working on. It's kind of rough, but I plan to add a few more features and make it less ugly over time.
 
 I started off using [socket.io](http://socket.io/) and added stuff to the example on the website.
-
 
 ###TO DO
 - Add private messaging
@@ -11,7 +12,7 @@ I started off using [socket.io](http://socket.io/) and added stuff to the exampl
 - Make it pretty and appealing
   - Fonts need to change
   - Colored background... not sure what to do (I don't like the alternating colors)
-
+- Require a username - don't use `alert()`
 
 ###TO CONSIDER
 - Store messages offline
