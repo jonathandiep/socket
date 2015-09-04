@@ -13,6 +13,3 @@ I started off using [socket.io](http://socket.io/) and added stuff to the exampl
 
 ###TO DO
 - Store messages in database, retrieve data on frontend using Angular
-
-###TO CONSIDER
-- Store messages offline
